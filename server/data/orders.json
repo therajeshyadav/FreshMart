@@ -1,0 +1,48 @@
+[
+  {
+    "id": "48fcb191-cfba-43e2-8736-96a2d995c09f",
+    "userId": "2d5a2634-130b-4624-874f-5b3cefad7b05",
+    "items": [
+      {
+        "productId": "dff522d3-4111-498b-b785-b93d199c2585",
+        "quantity": 1,
+        "price": 2.99
+      }
+    ],
+    "totalAmount": 8.2292,
+    "paymentMethod": "card",
+    "deliveryAddress": {
+      "fullName": "Raj Yadav",
+      "email": "ry8036739@gmail.com",
+      "phone": "09373822203",
+      "address": "AMRAVATI",
+      "city": "AMRAVATI",
+      "postalCode": "444602"
+    },
+    "status": "pending",
+    "createdAt": "2025-07-10T02:01:42.181Z"
+  },
+  {
+    "id": "c8586b89-3029-4860-af67-6578fd915d6d",
+    "userId": "2d5a2634-130b-4624-874f-5b3cefad7b05",
+    "items": [
+      {
+        "productId": "dff522d3-4111-498b-b785-b93d199c2585",
+        "quantity": 1,
+        "price": 2.99
+      }
+    ],
+    "totalAmount": 8.2292,
+    "paymentMethod": "cod",
+    "deliveryAddress": {
+      "fullName": "RAJESH MAHANAND YADAV",
+      "email": "ry8036739@gmail.com",
+      "phone": "09373822203",
+      "address": "AMRAVATI",
+      "city": "AMRAVATI",
+      "postalCode": "444602"
+    },
+    "status": "pending",
+    "createdAt": "2025-07-10T02:18:07.368Z"
+  }
+]

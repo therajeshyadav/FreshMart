@@ -1,0 +1,62 @@
+[
+  {
+    "id": "dff522d3-4111-498b-b785-b93d199c2585",
+    "name": "Fresh Bananas",
+    "description": "Sweet and ripe bananas, perfect for snacking",
+    "price": 2.99,
+    "category": "Fruits",
+    "stock": 48,
+    "image": "https://images.pexels.com/photos/2252584/pexels-photo-2252584.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "createdAt": "2025-07-10T01:39:11.059Z"
+  },
+  {
+    "id": "c08462a4-3b23-4dd9-853c-98c52c447358",
+    "name": "Organic Apples",
+    "description": "Crisp and juicy organic apples",
+    "price": 4.99,
+    "category": "Fruits",
+    "stock": 30,
+    "image": "https://images.pexels.com/photos/1300972/pexels-photo-1300972.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "createdAt": "2025-07-10T01:39:11.059Z"
+  },
+  {
+    "id": "75518735-8e62-4617-b030-6370e806cb3e",
+    "name": "Fresh Carrots",
+    "description": "Crunchy orange carrots, great for cooking",
+    "price": 1.99,
+    "category": "Vegetables",
+    "stock": 40,
+    "image": "https://images.pexels.com/photos/143133/pexels-photo-143133.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "createdAt": "2025-07-10T01:39:11.059Z"
+  },
+  {
+    "id": "a4239d50-a2c4-4cd9-89ae-97480f2736fc",
+    "name": "Whole Milk",
+    "description": "Fresh whole milk, 1 gallon",
+    "price": 3.49,
+    "category": "Dairy",
+    "stock": 25,
+    "image": "https://images.pexels.com/photos/236010/pexels-photo-236010.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "createdAt": "2025-07-10T01:39:11.059Z"
+  },
+  {
+    "id": "a8212154-7a7e-45ef-8d43-0dff031fc197",
+    "name": "Whole Wheat Bread",
+    "description": "Nutritious whole wheat bread loaf",
+    "price": 2.49,
+    "category": "Bakery",
+    "stock": 20,
+    "image": "https://images.pexels.com/photos/1775043/pexels-photo-1775043.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "createdAt": "2025-07-10T01:39:11.059Z"
+  },
+  {
+    "id": "0447f39e-e814-4e15-ae97-b15eb0c32688",
+    "name": "Greek Yogurt",
+    "description": "Creamy Greek yogurt, 32oz container",
+    "price": 4.99,
+    "category": "Dairy",
+    "stock": 15,
+    "image": "https://images.pexels.com/photos/1324803/pexels-photo-1324803.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "createdAt": "2025-07-10T01:39:11.059Z"
+  }
+]
